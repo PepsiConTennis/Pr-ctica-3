@@ -1,0 +1,55 @@
+PROBLEMA: Seguir el algoritmo para obtener una figura
+
+ENTRADA: Hoja tamaño carta en limpio, regla y lápiz.
+
+SALIDA: Figura correcta.
+
+ Algoritmo
+
+1. Empieza dibujando un círculo con un compás. Coloca un lápiz en el compás. 
+
+Coloca la punta del compás en el centro de una hoja de papel.
+
+2. Ahora gira el compás, mientras mantienes la punta apoyada en el papel. El lápiz 
+
+dibujará un círculo perfecto alrededor de la punta del compás.
+
+3. Marca un punto en la parte superior del círculo con el lápiz. Ahora, coloca la 
+
+punta del compás en la marca. No cambies el radio del compás con que hiciste el círculo
+
+4. Gira el compás para hacer una marca en el propio círculo hacia la izquierda. Haz 
+
+una marca también en el lado derecho.
+
+5. Ahora, coloca la punta del compás en uno de los puntos. Recuerda no cambiar el 
+
+radio del compás. Haz otra marca en el círculo.
+
+6. Continúa moviendo la punta del compás a las otras marcas, y continúa hasta que 
+
+tengas 6 marcas a la misma distancia unas de otras. Ahora, ya puedes dejar tu 
+
+compás a un lado.
+
+7. Usa una regla para crear un triángulo que empiece en la marca superior del 
+
+círculo. Coloca el lápiz en la marca superior. Ahora dibuja una línea hasta la 
+
+segunda marca por la izquierda. Dibuja otra línea, ahora hacia la derecha, 
+
+saltándote la marca de la parte más baja. Complementa el triángulo con una línea 
+
+hacia la marca superior. Así completarás el triángulo.
+
+8. Crea un segundo triángulo empezando en la marca en la base del círculo. Coloca 
+
+el lápiz en la marca inferior. Ahora conéctala con la segunda marca hacia la 
+
+izquierda. Dibuja una línea recta hacia la derecha, saltándote el punto superior. 
+
+Completa el segundo triángulo dibujando una línea hasta la marca en la parte 
+
+inferior. 
+
+9. Borra el círculo. Has terminado de dibujar tu estrella de 6 puntos.
