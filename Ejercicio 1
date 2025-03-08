@@ -1,0 +1,29 @@
+PROBLEMA: Seguir el algoritmo para obtener una figura
+
+ENTRADA: Hoja tamaño carta en limpio, regla y lápiz.
+
+SALIDA: Figura correcta.
+
+Algoritmo
+
+1. Dibuja una V invertida. Empieza desde el lado izquierdo, sube, y baja hacia el 
+
+lado derecho, no levantes el lápiz.
+
+2. Ahora dibuja una línea en ángulo ascendente hacia la izquierda. Debe cruzar la 
+
+primera línea más o menos a 1/3 de la altura. Todavía no levantes el lápiz del 
+
+papel.
+
+3. Ahora, dibuja una línea horizontal hacia la derecha. Debe cruzar la V invertida 
+
+más o menos a 2/3 de la altura total. Sigue sin levantar el lápiz.
+
+4. Dibuja una línea en un ángulo descendente hasta el punto de inicio. Las líneas 
+
+deben unirse.
+
+5. Ahora ya puedes levantar el lápiz del papel. Has terminado la estrella de 5 
+
+puntas.
